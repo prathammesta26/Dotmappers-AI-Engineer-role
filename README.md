@@ -38,5 +38,4 @@ dotmappers-ticket-system/
 └── README.md                # Project documentation
 
 Screenshots of outputs
- 1)![image Alt](https://github.com/prathammesta26/Dotmappers-AI-Engineer-role/blob/main/Dashboard%201.png?raw=true)
-
+![image alt](https://github.com/prathammesta26/Dotmappers-AI-Engineer-role/blob/main/Dashboard%201.png?raw=true)
