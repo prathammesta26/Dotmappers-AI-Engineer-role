@@ -39,5 +39,5 @@ dotmappers-ticket-system/
 
 Screenshots of outputs
 
-1)<img width="1426" height="752" alt="Screenshot 2026-09-18 173227" src="https://github.com/user-attachments/assets/ec9e4514-18ef-455e-9fda-a4a29d06b0d5" />
-2)<img width="1198" height="740" alt="Screenshot 2026-09-18 173337" src="https://github.com/user-attachments/assets/5dbf0b73-f981-456f-988e-d16de88a9e8c" />
+1)<img width="1426" height="752" alt="Dashboard 1" src="https://github.com/user-attachments/assets/ec9e4514-18ef-455e-9fda-a4a29d06b0d5" />
+2)<img width="1198" height="740" alt="Dashboard 2" src="https://github.com/user-attachments/assets/5dbf0b73-f981-456f-988e-d16de88a9e8c" />
