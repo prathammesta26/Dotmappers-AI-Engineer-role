@@ -37,6 +37,5 @@ dotmappers-ticket-system/
 ├── .gitignore               # Git security filters
 └── README.md                # Project documentation
 
-<img width="1426" height="752" alt="Dashboard 1" src="https://github.com/user-attachments/assets/488003ae-c2e4-46b9-bd2c-b2944b89a7bf" />
-<img width="1198" height="740" alt="Dashboard 2" src="https://github.com/user-attachments/assets/7f04e130-5aaf-401f-8817-4fd05499ebf2" />
-
+Dashboard 1.png
+Dashboard 2.png
