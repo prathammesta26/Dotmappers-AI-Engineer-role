@@ -38,5 +38,7 @@ dotmappers-ticket-system/
 └── README.md                # Project documentation
 
 Screenshots of outputs
-"C:\Users\07mah\OneDrive\Pictures\Screenshots\Dashboard 1.png"
-"C:\Users\07mah\OneDrive\Pictures\Screenshots\Dashboard 2.png"
+<img width="1426" height="752" alt="Dashboard 1" src="https://github.com/user-attachments/assets/ee22b2e7-fa72-4096-bdf5-0a1d8e536e63" />
+<img width="1198" height="740" alt="Dashboard 2" src="https://github.com/user-attachments/assets/0130c655-b2f5-4f04-90b5-e4473c327ddb" />
+
+
