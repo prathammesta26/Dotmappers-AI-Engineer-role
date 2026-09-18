@@ -37,5 +37,4 @@ dotmappers-ticket-system/
 ├── .gitignore               # Git security filters
 └── README.md                # Project documentation
 
-Dashboard 1.png
-Dashboard 2.png
+
