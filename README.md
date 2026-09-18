@@ -38,7 +38,7 @@ dotmappers-ticket-system/
 └── README.md                # Project documentation
 
 Screenshots of outputs
-<img width="1426" height="752" alt="Dashboard 1" src="https://github.com/user-attachments/assets/ee22b2e7-fa72-4096-bdf5-0a1d8e536e63" />
-<img width="1198" height="740" alt="Dashboard 2" src="https://github.com/user-attachments/assets/0130c655-b2f5-4f04-90b5-e4473c327ddb" />
+<img width="1426" height="752" alt="Dashboard 1" src="https://github.com/user-attachments/assets/e1ab35f3-af78-41cb-81e1-ace3c953891f" />
+<img width="1198" height="740" alt="Dashboard 2" src="https://github.com/user-attachments/assets/997bb7ad-d98e-45ab-a52a-343d8bf20d71" />
 
 
